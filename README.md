@@ -1,2 +1,6 @@
-# GitHub-Intro
-Hands-on Git &amp; GitHub practice repo featuring an interactive Python greeting program.
+## About This Project
+A simple Python program that greets the user by name, built to practice
+Git basics: cloning, committing, branching, pull requests, and merging.
+
+## How to Run
+python hello.py
